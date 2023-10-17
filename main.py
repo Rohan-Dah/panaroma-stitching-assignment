@@ -1,3 +1,7 @@
+# Assignent: Panaroma Stitching
+# I am attaching the images that I used to code in my github repository because I was not able to upload the entire folder on moodle
+# https://github.com/Rohan-Dah/panaroma-stitching-assignment
+
 import numpy as np
 import cv2
 import glob
